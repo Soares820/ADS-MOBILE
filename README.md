@@ -27,16 +27,3 @@ Este componente React Native é responsável por:
 * **Funcionalidades adicionais:** Adicionar funcionalidades como busca, filtragem e ordenação.
 * **Gerenciamento de erros:** Implementar um mecanismo para lidar com erros durante a requisição à API.
 
-**Observações:**
-
-* **Personalize o README:** Adapte o README para o seu projeto específico, incluindo mais detalhes sobre a estrutura do código, as tecnologias utilizadas e as próximas etapas.
-* **Adicione exemplos de código:** Se necessário, inclua exemplos de código para ilustrar conceitos importantes.
-* **Utilize imagens:** Imagens podem ajudar a visualizar melhor o componente e suas funcionalidades.
-
-**Dicas para o LinkedIn:**
-
-* **Utilize hashtags relevantes:** Utilize hashtags como #ReactNative, #JavaScript, #MobileDevelopment, #programming para alcançar um público maior.
-* **Incentive o engajamento:** Faça perguntas para estimular a discussão e o compartilhamento de experiências.
-* **Compartilhe o código:** Se possível, compartilhe o código completo ou um link para o repositório no GitHub para que outros desenvolvedores possam aprender com ele.
-
-Com essas informações, você pode criar um conteúdo de alta qualidade para o LinkedIn e um README completo para o seu projeto.
